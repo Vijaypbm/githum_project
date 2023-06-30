@@ -1,8 +1,10 @@
-this is new f1 file
-second commit of f1.....
-adding some more data
 V
 I
 J
 A
 Y
+K
+U
+M
+A
+R
